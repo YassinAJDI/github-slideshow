@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Insanity: doing the same thing over and over again and expecting different results.
 Use the left arrow to go back!
